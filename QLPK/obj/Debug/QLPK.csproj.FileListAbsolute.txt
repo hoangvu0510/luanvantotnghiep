@@ -1,0 +1,1512 @@
+D:\PROJECT\VisualStudio\QLPK\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\QLPK\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\QLPK\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLPhongBan.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLPhongBan.baml
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLChucVu.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLChucVu.baml
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLQuyenHan.g.cs
+D:\PROJECT\VisualStudio\QLPK\QLPK\obj\Debug\View\QLQuyenHan.baml
+D:\Học\Luan Van\Code\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\Code\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLNhanVien.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLQuyenHan.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLChucVu.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLPhongBan.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\Code\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\Code\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLNhanVien.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLQuyenHan.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLChucVu.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\View\QLPhongBan.baml
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\Code\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\bin\Debug\QLPK.exe.config
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK.exe
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK.pdb
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\bin\Debug\QLPK.exe
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\bin\Debug\QLPK.pdb
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\MainWindow.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\MainWindow.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\DangNhap.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLNhanVien.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLQuyenHan.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLChucVu.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLPhongBan.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\App.g.cs
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\DangNhap.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLBenhNhan.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLNhanVien.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLQuyenHan.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLChucVu.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\View\QLPhongBan.baml
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK.g.resources
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+C:\Users\ALPHABET\Downloads\Compressed\Code\Code\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\QLPK20180505\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\QLPK20180505\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\QLPK20180505\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\QLNhanVien.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\QLNhanVien.baml
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\QLVaiTro.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\QLVaiTro.baml
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\QLPK20180505\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\QLPK20180513\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\QLPK20180513\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\QLPK20180513\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLKhoaKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180513\QLPK20180513\QLPK\obj\Debug\View\QLKhoaKham.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\PhanCongCongViec.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLPhongKhoa.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLPhongKham.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLNhanVien.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLThuoc.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLVaiTro.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\PhanCongCongViec.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLPhongKhoa.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLPhongKham.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLNhanVien.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLThuoc.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\View\QLVaiTro.baml
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\#new\QLPK20180513\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\PhanCongCongViec.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLPhongKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\PhanCongCongViec.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLPhongKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\View\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180508\QLPK20180513\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QLThuoc.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QLThuoc.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180509\QLPK20180513\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QLThuoc.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QLThuoc.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180519\QLPK20180519\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLThuoc.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLBenhNhan.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QLThuoc.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180519\QLPK20180519_f2\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180526\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n1\20180526\QLPK20180519\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\App.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\20180526_n3\20180526_n3\20180526_n3\20180526\QLPK20180519\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180526\20180526_f1\QLPK20180526\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLapLichKham.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180602\QLPK20180602\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\App.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\QLPK20180602n\QLPK20180602\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\PagedList.dll
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\bin\Debug\PagedList.xml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLLapPhieuKham.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180609\QLPK20180609\QLPK20180609_2\QLPK\obj\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\QLPK.exe.config
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\QLPK.pdb
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\PagedList.dll
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\bin\Debug\PagedList.xml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\MainWindow.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\App.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\MainWindow.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLPhieuSDDV.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\App.g.cs
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\DangNhap.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLPhieuSDDV.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK.g.resources
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK.exe
+D:\PROJECT\VisualStudio\VuGui\20180616\QLPK20180616_f\QLPK20180616\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BaoCao\BCNhanVien.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BaoCao\BCPhieuThu.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BaoCao\BCNhanVien.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\BaoCao\BCPhieuThu.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\RdlCompile.cache
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\PagedList.dll
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\PagedList.xml
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180623\QLPK20180616_2\QLPK20180616\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDSDKK.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\InPhieuThu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDSDKK.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\InPhieuThu.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\RdlCompile.cache
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\PagedList.dll
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\bin\Debug\PagedList.xml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\QLPK.exe.config
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.exe
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.pdb
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\QLPK.exe
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\QLPK.pdb
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignColors.dll
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\PagedList.dll
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\PagedList.xml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\MainWindow.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\App.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\MainWindow.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDSDKK.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\InPhieuThu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DangNhap.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\App.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDSDKK.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\InPhieuThu.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DangNhap.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DoiMatKhau.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.g.resources
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\RdlCompile.cache
+E:\PROJECTs\VisualStudio\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\PagedList.dll
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\bin\Debug\PagedList.xml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDSDKK.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCTongHop.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\InPhieuThu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDSDKK.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCTongHop.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\InPhieuThu.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\RdlCompile.cache
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLLSKB.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630_n2\QLPK20180630_n1\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLLSKB.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLLSKB.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCTongHop.g.cs
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BacSi\QLLSKB.baml
+D:\Học\Luan Van\20180630\QLPK20180630\QLPK\obj\Debug\View\BaoCao\BCTongHop.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDSDKK.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLLSKB.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCTongHop.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\InPhieuThu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\PagedList.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\bin\Debug\PagedList.xml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDSDKK.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLLSKB.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCTongHop.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\InPhieuThu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\RdlCompile.cache
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainBacSi.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainBacSi.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainQuanTri.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainThuNgan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainTiepNhan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainQuanTri.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainThuNgan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n1\QLPK20180707\QLPK\obj\Debug\MainTiepNhan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\QLPK.exe.config
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK.exe
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK.pdb
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\QLPK.exe
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\QLPK.pdb
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\MaterialDesignColors.dll
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\PagedList.dll
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\bin\Debug\PagedList.xml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainBacSi.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainQuanTri.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainThuNgan.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainTiepNhan.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainWindow.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\App.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainBacSi.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainQuanTri.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainThuNgan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainTiepNhan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\MainWindow.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDSDKK.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLLSKB.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCTongHop.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\InPhieuThu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\DangNhap.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\App.g.cs
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDSDKK.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLLSKB.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCTongHop.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\InPhieuThu.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\DangNhap.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\DoiMatKhau.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK.g.resources
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\RdlCompile.cache
+E:\PROJECTs\VisualStudio\QLPK20180707_n2\QLPK20180707_n2\QLPK20180707\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\QLPK.exe.config
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK.exe
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK.pdb
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\QLPK.exe
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\QLPK.pdb
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\MaterialDesignColors.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\PagedList.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\bin\Debug\PagedList.xml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK.csprojResolveAssemblyReference.cache
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainBacSi.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainQuanTri.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainThuNgan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainTiepNhan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainWindow.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\App.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainBacSi.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainQuanTri.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainThuNgan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainTiepNhan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\MainWindow.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDSDKK.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLLSKB.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDonThuoc.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCTongHop.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\InPhieuThu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\DangNhap.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\DoiMatKhau.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLDichVu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLichKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPCCV.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhongKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLNhanVien.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLThuoc.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLVaiTro.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QLPhieuSDDV.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\App.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK_MarkupCompile.cache
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK_MarkupCompile.lref
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDSDKK.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLLSKB.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLNhanVien_BS.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLDonThuoc.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BacSi\QLPhieuKhamBenh.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCTongHop.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienBacSi.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienThuNgan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\InPhieuThu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\BaoCao\BCNhanVienTiepNhan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\DangNhap.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\DoiMatKhau.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLDichVu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLichKham.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLLoaiDichVu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPCCV.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLChuyenKhoa.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhanQuyen.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLPhongKham.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLBenhNhan.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLNhanVien.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLThuoc.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QuanTri\QLVaiTro.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\ThuNgan\QLPhieuThu.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLBenhNhan_TN.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\QLPhieuSDDV.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLPhieuDKKham.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\View\TiepNhan\QLNhanVien_TN.baml
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK.g.resources
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK.Properties.Resources.resources
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\QLPK.csproj.GenerateResource.Cache
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\RdlCompile.cache
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\RdlCompile.compiled
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\TestLichKham.g.cs
+D:\Học\Luan Van\201780707\QLPK20180707_n3\QLPK20180707\QLPK\obj\Debug\TestLichKham.baml

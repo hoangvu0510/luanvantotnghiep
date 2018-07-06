@@ -1,0 +1,91 @@
+﻿<Window x:Class="QLPK.MainQuanTri"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Phần Mềm Quản Lý Phòng Khám" Loaded="Window_Loaded" Closed="Window_Closed" WindowState="Maximized">
+    <StackPanel>
+        <Menu Name="mnu">
+            <MenuItem Header="Hệ thống">
+                <MenuItem Header="Đăng xuất" Name="mnuHeThongDangXuat" Click="mnuHeThongDangXuat_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/logout.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Đổi mật khẩu"  Name="mnuHeThongDoiMatKhau" Click="mnuHeThongDoiMatKhau_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/changepass.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Quản lý" Name="mnuQuanTri" >
+                <MenuItem Header="Quản lý phân quyền" Name="mnuPQ" Click="mnuPQ_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/Permissions2.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý thông tin nhân viên"  Name="mnuDanhMucNhanVien"  Click="mnuDanhMucNhanVien_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/user_information.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý thông tin bệnh nhân" Name="mnuDanhMucBenhNhan" Click="mnuDanhMucBenhNhan_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/patient-information.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý vai trò"  Name="mnuVaiTro" Click="mnuVaiTro_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/role.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý chuyên khoa"  Name="mnuChuyenKhoa"  Click="mnuChuyenKhoa_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/ck.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý phòng khám"  Name="mnuPhongKham"  Click="mnuPhongKham_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/number-one.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý thuốc"  Name="mnuThuoc"  Click="mnuThuoc_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/thuoc.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>               
+                <MenuItem Header="Quản lý loại dịch vụ"  Name="mnuDanhMucLoaiDichVu"  Click="mnuDanhMucLoaiDichVu_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/type_service.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý dịch vụ"  Name="mnuDanhMucDichVu"  Click="mnuDanhMucDichVu_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/service.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Quản lý lập lịch"  Name="mnuDMQLLapLich"  Click="mnuDMQLLapLich_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/patient-information.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Báo cáo" Name="mnuThongKe" >
+                <MenuItem Header="Báo cáo tổng hợp"  Name="mnuThongKeTongHop"  Click="mnuThongKeTongHop_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Icon/patient-information.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <StackPanel>
+            <Image Source="Icon/doctor_office.jpg"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

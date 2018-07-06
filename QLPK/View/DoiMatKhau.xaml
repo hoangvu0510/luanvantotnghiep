@@ -1,0 +1,52 @@
+﻿<Window x:Class="QLPK.View.DoiMatKhau"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:QLPK.Model"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Đổi mật khẩu" Height="200" Width="350" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CMyCommands.ChapNhan" CanExecute="CommandBinding_CanExecute_ChapNhan" Executed="CommandBinding_Executed_ChapNhan"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.Thoat" CanExecute="CommandBinding_CanExecute_Thoat" Executed="CommandBinding_Executed_Thoat"></CommandBinding>
+    </Window.CommandBindings>
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Column="0" Grid.Row="0" Content="Mã nhân viên: " ></Label>
+            <Label Grid.Column="0" Grid.Row="1" Content="Mật khẩu cũ: " ></Label>
+            <Label Grid.Column="0" Grid.Row="2" Content="Mật khẩu mới: " ></Label>
+            <Label Grid.Column="0" Grid.Row="3" Content="Nhập lại: " ></Label>
+
+            <TextBox Grid.Column="1" Grid.Row="0" Name="txtMaNhanVien"></TextBox>
+            <PasswordBox Grid.Column="1" Grid.Row="1" Name="txtMatKhauCu"></PasswordBox>
+            <PasswordBox Grid.Column="1" Grid.Row="2" Name="txtMatKhauMoi"></PasswordBox>
+            <PasswordBox Grid.Column="1" Grid.Row="3" Name="txtNhapLai"></PasswordBox>
+
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button Grid.Column="0" Grid.Row="2" Content="Chấp nhận" Name="btnChapNhan" Command="local:CMyCommands.ChapNhan" Width="120" Margin="0 15 0 0" Background="Green"></Button>
+            <Button Grid.Column="1" Grid.Row="2" Content="Thoát" Name="btnThoat" Command="local:CMyCommands.Thoat" Width="120" Margin="0 15 0 0" Background="OrangeRed"></Button>
+        </Grid>
+    </StackPanel>
+</Window>

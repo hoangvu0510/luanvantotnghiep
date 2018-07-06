@@ -1,0 +1,107 @@
+﻿<Window x:Class="QLPK.View.QLDichVu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:QLPK.Model"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Quản lý thông tin dịch vụ"  WindowState="Maximized" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CMyCommands.ThemDichVu" CanExecute="CommandBinding_CanExecute_Them" Executed="CommandBinding_Executed_Them"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.SuaDichVu" CanExecute="CommandBinding_CanExecute_Sua" Executed="CommandBinding_Executed_Sua"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.XoaDichVu" CanExecute="CommandBinding_CanExecute_Xoa" Executed="CommandBinding_Executed_Xoa"></CommandBinding>
+    </Window.CommandBindings>
+    <ScrollViewer>
+        <StackPanel Name="sp">
+            <GroupBox Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="3*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Column="0" Grid.Row="0" Content="Mã dịch vụ"></Label>
+                    <TextBox Grid.Column="1" Grid.Row="0" Name="txtMa"></TextBox>
+
+                    <Label Grid.Column="0" Grid.Row="1" Content="Tên dịch vụ"></Label>
+                    <TextBox Grid.Column="1" Grid.Row="1" Name="txtTen"></TextBox>
+
+                    <Label Grid.Column="0" Grid.Row="2" Content="Loại dịch vụ"></Label>
+                    <ComboBox Grid.Column="1" Grid.Row="2" Name="cmbLoaiDV" ></ComboBox>
+
+                    <Label Grid.Column="0" Grid.Row="3" Content="Đơn giá dịch vụ"></Label>
+                    <TextBox Grid.Column="1" Grid.Row="3" Name="txtDonGia"></TextBox>
+
+                    <Label Grid.Column="0" Grid.Row="4" Content="Mô tả"></Label>
+                    <TextBox Grid.Column="1" Grid.Row="4" Name="txtMoTa"></TextBox>
+
+                    <Label Grid.Column="0" Grid.Row="5" Content="Trạng thái"></Label>
+                    <CheckBox Grid.Column="1" Grid.Row="5" Name="chbTrangThai">Sử dụng.</CheckBox>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox  Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button Grid.Column="0" Grid.Row="0" Content="Thêm" Name="btnThem" Command="local:CMyCommands.ThemDichVu" Width="150" Background="Green"></Button>
+                    <Button Grid.Column="1" Grid.Row="0"  Content="Sửa" Name="btnSua" Command="local:CMyCommands.SuaDichVu"  Width="150" Background="Orange"></Button>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox  Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                <DataGrid Name="dg" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="dg_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding STT}" ClipboardContentBinding="{x:Null}" Header="STT" Width="50" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding MaDichVu}" ClipboardContentBinding="{x:Null}" Header="Mã dịch vụ" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding TenDichVu}" ClipboardContentBinding="{x:Null}" Header="Tên dịch vụ" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding LoaiDichVu}" ClipboardContentBinding="{x:Null}" Header="Loại dịch vụ" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding DonGiaDichVu}" ClipboardContentBinding="{x:Null}" Header="Đơn giá dịch vụ" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding MoTa}" ClipboardContentBinding="{x:Null}" Header="Mô tả" IsReadOnly="True"/>
+                        <DataGridCheckBoxColumn Binding="{Binding TrangThai}" ClipboardContentBinding="{x:Null}" Header="Trạng thái" IsReadOnly="True"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </GroupBox>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button Grid.Column="1" Grid.Row="0" Content="&lt;" Name="btnPrevious"  Width="40" Background="Gray" Click="btnPrevious_Click"></Button>
+                <Label Grid.Column="2" Grid.Row="0" Name="lblPageNumber" Width="100"></Label>
+                <Button Grid.Column="3" Grid.Row="0" Content=">" Name="btnNext" Width="40" Background="Gray" Click="btnNext_Click"></Button>
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

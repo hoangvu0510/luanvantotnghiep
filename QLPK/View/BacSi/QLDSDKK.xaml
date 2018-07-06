@@ -1,0 +1,86 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       xmlns:local="clr-namespace:QLPK.Model"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="QLPK.View.BacSi.QLDSDKK"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Bác Sỉ tiếp nhận khám bệnh" WindowState="Maximized" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" d:DesignWidth="1011" Height="1234.5">
+    <Window.CommandBindings>      
+      
+    </Window.CommandBindings>
+
+    <ScrollViewer>        
+        <StackPanel>
+            <GroupBox Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10" Header="Danh sách phiếu đăng ký đang chờ khám"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>              
+                    
+                    <ScrollViewer Grid.Column="0" Grid.Row="0" Height="300">
+                    <DataGrid SelectedValuePath="MaPhieuDKK" x:Name="dgPDKK" AutoGenerateColumns="False" CanUserAddRows="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding MaPhieuDKKham}" ClipboardContentBinding="{x:Null}" Header="Mã phiếu ĐK khám" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding NgayLap, StringFormat=\{0: dd/ MM/ yyyy\}}" ClipboardContentBinding="{x:Null}" Header="Ngày lập" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding MaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Mã nhân viên" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding MaBenhNhan}" ClipboardContentBinding="{x:Null}" Header="Mã bệnh nhân" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding TenBenhNhan}" ClipboardContentBinding="{x:Null}" Header="Tên bệnh nhân" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding NgaySinh, StringFormat=\{0: dd/ MM/ yyyy\}}" ClipboardContentBinding="{x:Null}" Header="Ngày sinh" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding CMND}" ClipboardContentBinding="{x:Null}" Header="Số CMND" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding TrangThai}" ClipboardContentBinding="{x:Null}" Header="Trạng thái" IsReadOnly="True"/>
+                                <DataGridTemplateColumn>
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button Name="dgbtnKB" Click="dgbtnKB_Click">Khám bệnh</Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                    </DataGrid>
+                    </ScrollViewer>                   
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10" Header="Danh sách phiếu khám bệnh"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <ScrollViewer Grid.Column="0" Grid.Row="0" Height="300">
+                        <DataGrid x:Name="dgPKB" AutoGenerateColumns="False" CanUserAddRows="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding MaPhieuKB}" ClipboardContentBinding="{x:Null}" Header="Mã phiếu khám bệnh" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding NgayLap, StringFormat=\{0: dd/ MM/ yyyy\}}" ClipboardContentBinding="{x:Null}" Header="Ngày lập" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding MaPhieuDKK}" ClipboardContentBinding="{x:Null}" Header="Mã phiếu đăng ký khám" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding MaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Mã nhân viên" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding MaBenhNhan}" ClipboardContentBinding="{x:Null}" Header="Mã bệnh nhân" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding TenBenhNhan}" ClipboardContentBinding="{x:Null}" Header="Tên bệnh nhân" IsReadOnly="True"/>
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </ScrollViewer>
+                </Grid>
+            </GroupBox>
+
+        </StackPanel>
+        
+    </ScrollViewer>
+
+</Window>

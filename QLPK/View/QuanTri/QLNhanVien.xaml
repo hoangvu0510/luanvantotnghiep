@@ -1,0 +1,150 @@
+﻿<Window x:Class="QLPK.View.QLNhanVien"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:QLPK.Model"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Quản lý thông tin nhân viên"  WindowState="Maximized" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CMyCommands.ThemNhanVien" CanExecute="CommandBinding_CanExecute_Them" Executed="CommandBinding_Executed_Them"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.SuaNhanVien" CanExecute="CommandBinding_CanExecute_Sua" Executed="CommandBinding_Executed_Sua"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.TimNhanVien" CanExecute="CommandBinding_CanExecute_Tim" Executed="CommandBinding_Executed_Tim"></CommandBinding>
+    </Window.CommandBindings>
+    <ScrollViewer>
+        <StackPanel Name="spNV">
+            <Expander Name="epdTTNV" Expanded="epdTTNV_Expanded" Collapsed="epdTTNV_Expanded" Header="Thêm nhân viên" Margin="0,0,-0.4,0">
+                <GroupBox Name="gbThongTinNhanVien" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="Mã nhân viên: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="0" Name="txtMaNhanVien" ></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="Họ tên: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="1" Name="txtHoTen" ></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="Ngày sinh: "></Label>
+                        <DatePicker Grid.Column="1" Grid.Row="2" Name="dpNgaySinh" ></DatePicker>
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="Giới tính: "></Label>
+                        <StackPanel Grid.Column="1" Grid.Row="3"  Name="gbGioiTinh" Orientation="Horizontal">
+                            <RadioButton Name="rdoNam" Content="Nam" Margin="0,0,10,0" />
+                            <RadioButton Name="rdoNu" Content="Nữ" IsChecked="True" />
+                        </StackPanel>
+
+                        <Label Grid.Column="0" Grid.Row="4" Content="CMND: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="4" Name="txtCMND" ></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="5" Content="Địa chỉ: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="5" Name="txtDiaChi" ></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="6" Content="Điện thoại: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="6" Name="txtDienThoai" ></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="7" Content="Trạng Thái: "></Label>
+                        <StackPanel Grid.Column="1" Grid.Row="7"  Name="gbTrangThai" Orientation="Horizontal">
+                            <RadioButton Name="rdoLamViec" Content="Làm việc" Margin="0,0,10,0" IsChecked="True" />
+                            <RadioButton Name="rdoNghiViec" Content="Nghỉ việc" />
+                        </StackPanel>
+
+                        <Label Grid.Column="0" Grid.Row="8" Content="Hiệu lực: "></Label>
+                        <StackPanel Grid.Column="1" Grid.Row="8"  Name="gbKhoaNV" Orientation="Horizontal">
+                            <RadioButton Name="rdoHieuluc" Content="Hiệu lực" IsChecked="True" Margin="0,0,10,0" />
+                            <RadioButton Name="rdoHethieuluc" Content="Hết hiệu lực"  />
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </Expander>
+            <GroupBox Name="gbNut" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button Grid.Column="0" Grid.Row="0" Content="Thêm" Name="btnThemNhanVien" Command="local:CMyCommands.ThemNhanVien" Grid.ColumnSpan="2" Width="150" Background="Green"></Button>
+                    <Button Grid.Column="1" Grid.Row="0" Content="Sửa" Name="btnSuaNhanVien" Command="local:CMyCommands.SuaNhanVien" Grid.ColumnSpan="2" Width="150" Background="Orange"></Button>
+                </Grid>
+            </GroupBox>
+            <GroupBox Name="gbTim" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Column="0" Grid.Row="0" Content="Tìm tên nhân viên: " ></Label>
+                    <TextBox Grid.Column="1" Grid.Row="0" Name="txtTim"></TextBox>
+                    <Button Grid.Column="2" Grid.Row="0" Content="Tìm" Name="btnTimNhanVien" Command="local:CMyCommands.TimNhanVien" Width="150" Background="Brown"></Button>
+                </Grid>
+            </GroupBox>
+            <GroupBox Name="gbDG" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                <DataGrid Name="dg" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="dg_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding STT}" ClipboardContentBinding="{x:Null}" Header="STT" IsReadOnly="True" Width="50" />
+                        <DataGridTextColumn Binding="{Binding MaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Mã nhân viên" IsReadOnly="True" />
+                        <DataGridTextColumn Binding="{Binding HoTen}" ClipboardContentBinding="{x:Null}" Header="Họ tên" IsReadOnly="True" />
+                        <DataGridTextColumn Binding="{Binding NgaySinh, StringFormat={}{0: dd/ MM/ yyyy}}" ClipboardContentBinding="{x:Null}" Header="Ngày sinh" IsReadOnly="True" />
+                        <DataGridTextColumn Binding="{Binding GioiTinh}" ClipboardContentBinding="{x:Null}" Header="Giới tính" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding CMND}" ClipboardContentBinding="{x:Null}" Header="CMND" IsReadOnly="True" />
+                        <DataGridTextColumn Binding="{Binding DiaChi}" ClipboardContentBinding="{x:Null}" Header="Địa chỉ" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding DienThoai}" ClipboardContentBinding="{x:Null}" Header="Điện thoại" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding TrangThai}" ClipboardContentBinding="{x:Null}" Header="Trạng thái" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding KhoaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Hiệu lực" IsReadOnly="True"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </GroupBox>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button Grid.Column="1" Grid.Row="0" Content="&lt;" Name="btnPrevious"  Width="40" Background="Gray" Click="btnPrevious_Click"></Button>
+                <Label Grid.Column="2" Grid.Row="0" Name="lblPageNumber" Width="100"></Label>
+                <Button Grid.Column="3" Grid.Row="0" Content=">" Name="btnNext" Width="40" Background="Gray" Click="btnNext_Click"></Button>
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B44D8A79-D14B-485F-AE41-DA3B44F8E780}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLPK</RootNamespace>
+    <AssemblyName>QLPK</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignColors, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.1.2\lib\net45\MaterialDesignColors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.4.0.1044, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.4.0.1044\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Control\CXLBaoCao.cs" />
+    <Compile Include="Control\CXLDichVu.cs" />
+    <Compile Include="Control\CXLLichKham.cs" />
+    <Compile Include="Control\CXLDonThuoc.cs" />
+    <Compile Include="Control\CXLPhieuSDDV.cs" />
+    <Compile Include="Control\CXLPhieuKhamBenh.cs" />
+    <Compile Include="Control\CXLPhieuDKKham.cs" />
+    <Compile Include="Control\CXLLoaiDichVu.cs" />
+    <Compile Include="Control\CXLChuyenKhoa.cs" />
+    <Compile Include="Control\CXLPhieuThu.cs" />
+    <Compile Include="Control\CXLPhongKham.cs" />
+    <Compile Include="Control\CXLNhanVien.cs" />
+    <Compile Include="Control\CXLThuoc.cs" />
+    <Compile Include="Control\CXLVaiTro.cs" />
+    <Compile Include="Control\CXLBenhNhan.cs" />
+    <Compile Include="MainBacSi.xaml.cs">
+      <DependentUpon>MainBacSi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainQuanTri.xaml.cs">
+      <DependentUpon>MainQuanTri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainThuNgan.xaml.cs">
+      <DependentUpon>MainThuNgan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainTiepNhan.xaml.cs">
+      <DependentUpon>MainTiepNhan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\CModel.cs" />
+    <Compile Include="Model\Common.cs" />
+    <Compile Include="Model\CMyCommands.cs" />
+    <Compile Include="Model\QLPK.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLPK.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="TestLichKham.xaml.cs">
+      <DependentUpon>TestLichKham.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BacSi\QLDSDKK.xaml.cs">
+      <DependentUpon>QLDSDKK.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BacSi\QLLSKB.xaml.cs">
+      <DependentUpon>QLLSKB.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BacSi\QLNhanVien_BS.xaml.cs">
+      <DependentUpon>QLNhanVien_BS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BacSi\QLDonThuoc.xaml.cs">
+      <DependentUpon>QLDonThuoc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BacSi\QLPhieuKhamBenh.xaml.cs">
+      <DependentUpon>QLPhieuKhamBenh.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BaoCao\BCTongHop.xaml.cs">
+      <DependentUpon>BCTongHop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BaoCao\BCNhanVienBacSi.xaml.cs">
+      <DependentUpon>BCNhanVienBacSi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BaoCao\BCNhanVienThuNgan.xaml.cs">
+      <DependentUpon>BCNhanVienThuNgan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BaoCao\InPhieuThu.xaml.cs">
+      <DependentUpon>InPhieuThu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\BaoCao\BCNhanVienTiepNhan.xaml.cs">
+      <DependentUpon>BCNhanVienTiepNhan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DangNhap.xaml.cs">
+      <DependentUpon>DangNhap.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DoiMatKhau.xaml.cs">
+      <DependentUpon>DoiMatKhau.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLDichVu.xaml.cs">
+      <DependentUpon>QLDichVu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLLichKham.xaml.cs">
+      <DependentUpon>QLLichKham.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLLoaiDichVu.xaml.cs">
+      <DependentUpon>QLLoaiDichVu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLPCCV.xaml.cs">
+      <DependentUpon>QLPCCV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLChuyenKhoa.xaml.cs">
+      <DependentUpon>QLChuyenKhoa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLPhanQuyen.xaml.cs">
+      <DependentUpon>QLPhanQuyen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLPhongKham.xaml.cs">
+      <DependentUpon>QLPhongKham.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLBenhNhan.xaml.cs">
+      <DependentUpon>QLBenhNhan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLNhanVien.xaml.cs">
+      <DependentUpon>QLNhanVien.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLThuoc.xaml.cs">
+      <DependentUpon>QLThuoc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanTri\QLVaiTro.xaml.cs">
+      <DependentUpon>QLVaiTro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\ThuNgan\QLPhieuThu.xaml.cs">
+      <DependentUpon>QLPhieuThu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\TiepNhan\QLBenhNhan_TN.xaml.cs">
+      <DependentUpon>QLBenhNhan_TN.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\QLPhieuSDDV.xaml.cs">
+      <DependentUpon>QLPhieuSDDV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\TiepNhan\QLPhieuDKKham.xaml.cs">
+      <DependentUpon>QLPhieuDKKham.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\TiepNhan\QLNhanVien_TN.xaml.cs">
+      <DependentUpon>QLNhanVien_TN.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainBacSi.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainQuanTri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainThuNgan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainTiepNhan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="TestLichKham.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\BacSi\QLDSDKK.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BacSi\QLLSKB.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BacSi\QLNhanVien_BS.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BacSi\QLDonThuoc.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BacSi\QLPhieuKhamBenh.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BaoCao\BCTongHop.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BaoCao\BCNhanVienBacSi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\BaoCao\BCNhanVienThuNgan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\BaoCao\InPhieuThu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\BaoCao\BCNhanVienTiepNhan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DangNhap.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DoiMatKhau.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLDichVu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\QuanTri\QLLichKham.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLLoaiDichVu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\QuanTri\QLPCCV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLChuyenKhoa.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\QuanTri\QLPhanQuyen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLPhongKham.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\QuanTri\QLBenhNhan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLNhanVien.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLThuoc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\QuanTri\QLVaiTro.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\ThuNgan\QLPhieuThu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\TiepNhan\QLBenhNhan_TN.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\QLPhieuSDDV.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\TiepNhan\QLPhieuDKKham.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\TiepNhan\QLNhanVien_TN.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\CTruyCapDuLieu.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="View\BaoCao\RPPhieuThu.rdlc" />
+    <EmbeddedResource Include="View\BaoCao\RPNhanVienBacSi.rdlc" />
+    <EmbeddedResource Include="View\BaoCao\RPNhanVienThuNgan.rdlc" />
+    <EmbeddedResource Include="View\BaoCao\RPNhanVienTiepNhan.rdlc" />
+    <EmbeddedResource Include="View\BaoCao\RPTongHopPhieuDDK.rdlc" />
+    <EmbeddedResource Include="View\BaoCao\RPTongHopPhieuKham.rdlc" />
+    <EmbeddedResource Include="View\BaoCao\RPTongHopPhieuThu.rdlc" />
+    <None Include="Model\QLPK.dbml.layout">
+      <DependentUpon>QLPK.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Model\QLPK.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QLPK.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\QLPK.Model.CBCPhieuDKKhamModel.datasource" />
+    <None Include="Properties\DataSources\QLPK.Model.CBCPhieuKhamBenhModel.datasource" />
+    <None Include="Properties\DataSources\QLPK.Model.CBCPhieuThuModel.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\changepass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\patient-information.png" />
+    <Resource Include="Icon\Permissions2.png" />
+    <Resource Include="Icon\user_information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\ck.png" />
+    <Resource Include="Icon\job.png" />
+    <Resource Include="Icon\number-one.png" />
+    <Resource Include="Icon\role.png" />
+    <Resource Include="Icon\thuoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\doctor_office.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\dkkham.png" />
+    <Resource Include="Icon\service.png" />
+    <Resource Include="Icon\type_service.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,134 @@
+﻿<Window x:Class="QLPK.View.ThuNgan.QLPhieuThu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       xmlns:local="clr-namespace:QLPK.Model"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Quản lý phiếu thu"  WindowState="Maximized" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CMyCommands.LapPhieuThu" CanExecute="CommandBinding_CanExecute_LapPhieuThu" Executed="CommandBinding_Executed_LapPhieuThu"></CommandBinding>
+    </Window.CommandBindings>
+    <ScrollViewer>
+        <StackPanel Name="sp">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition />
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition />
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Grid.Column="0" Grid.Row="0" Content="Từ ngày:"></Label>
+                <DatePicker Grid.Column="1" Grid.Row="0" Name="dpTuNgay" ></DatePicker>
+
+                <Label Grid.Column="2" Grid.Row="0" Content="Đến ngày:"></Label>
+                <DatePicker Grid.Column="3" Grid.Row="0" Name="dpDenNgay" ></DatePicker>
+
+                <CheckBox Grid.Column="4" Grid.Row="0" Name="chbDaDongTien" Content="Đã đóng tiền" ></CheckBox>
+                <Button Grid.Column="5" Grid.Row="0" Name="btnTimKiemPSDDV" Content="Tìm kiếm" Click="btnTimKiemPSDDV_Click" Width="110" Background="Brown"></Button>
+                <GroupBox Header="Danh sách phiếu sử dụng dịch vụ" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="6" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                    <DataGrid Name="dg" AutoGenerateColumns="False" CanUserAddRows="False" >
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding MaPhieuSDDV}" ClipboardContentBinding="{x:Null}" Header="Mã phiếu ĐK khám" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding NgayLap, StringFormat={}{0: dd/ MM/ yyyy}}" ClipboardContentBinding="{x:Null}" Header="Ngày lập" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding MaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Mã nhân viên" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding MaBenhNhan}" ClipboardContentBinding="{x:Null}" Header="Mã bệnh nhân" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding TenBenhNhan}" ClipboardContentBinding="{x:Null}" Header="Tên bệnh nhân" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding NgaySinh, StringFormat={}{0: dd/ MM/ yyyy}}" ClipboardContentBinding="{x:Null}" Header="Ngày sinh" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding CMND}" ClipboardContentBinding="{x:Null}" Header="Số CMND" IsReadOnly="True"/>
+                            <DataGridTextColumn Binding="{Binding TongTien}" ClipboardContentBinding="{x:Null}" Header="Tổng tiền" IsReadOnly="True"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </GroupBox>
+            </Grid>
+
+            <Expander Header="Chi tiết đăng ký dịch vụ" Margin="0,0,-0.4,0" IsExpanded="True">
+                <StackPanel>
+                    <GroupBox  Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="3*"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Button Grid.Column="1" Grid.Row="0" Content="Xem CTDK Dịch Vụ" Name="XemCTDKDV" Click="XemCTDKDV_Click" Width="160" Background="Brown"></Button>
+
+                            <DataGrid Name="dgCTDV" Grid.Column="0" Grid.Row="0" AutoGenerateColumns="False" CanUserAddRows="False" >
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn Binding="{Binding TenLoaiDichVu}" ClipboardContentBinding="{x:Null}" Header="Tên loại dịch vụ" IsReadOnly="True"/>
+                                    <DataGridTextColumn Binding="{Binding TenDichVu}" ClipboardContentBinding="{x:Null}" Header="Tên dịch vụ" IsReadOnly="True"/>
+                                    <DataGridTextColumn Binding="{Binding DonGiaDichVu}" ClipboardContentBinding="{x:Null}" Header="Đơn giá dịch vụ" IsReadOnly="True"/>
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </Grid>
+                    </GroupBox>
+                </StackPanel>
+            </Expander>
+
+            <Expander Name="epdPT" IsExpanded="True" Header="Thông tin phiếu thu">
+                <GroupBox Name="gbPT"  Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight" >
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition />
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="Mã phiếu thu:"></Label>
+                        <TextBox Grid.Column="0" Grid.Row="1" Name="txtMaPT" IsReadOnly="True"></TextBox>
+                        <Label Grid.Column="1" Grid.Row="0" Content="Ngày lập: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="1" Name="dpNgayLap" IsReadOnly="True"></TextBox>
+
+                        <Label Grid.Column="2" Grid.Row="0" Content="Nhân viên lập phiếu: "></Label>
+                        <TextBox Grid.Column="2" Grid.Row="1" Name="txtNhanVienLP" IsReadOnly="True"></TextBox>
+
+                        <!--<Button Grid.Column="3" Grid.Row="1"  Content="Sửa phiếu" Name="btnSuaPhieu" Command="local:CMyCommands.SuaPhieuKham"></Button>-->
+                        <Label Grid.Column="0" Grid.Row="2" Content="Tổng tiền:"></Label>
+                        <TextBox Grid.Column="1" Grid.Row="2" Name="txtTongTien"  Grid.ColumnSpan="2" IsReadOnly="True"></TextBox>
+                        <Button Grid.Column="3" Grid.Row="1" Content="Lập phiếu" Name="btnLapPT" Command="local:CMyCommands.LapPhieuThu" Width="150" Background="Green" Margin="0 5 0 0" ></Button>
+                        <Button Grid.Column="3" Grid.Row="2" Content="In phiếu" Name="btnInPT" Width="150" Background="Green" Margin="0 5 0 0" Click="btnInPT_Click"></Button>
+
+                        <DataGrid Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="4" Name="dgPT" AutoGenerateColumns="False" CanUserAddRows="False" >
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding MaPhieuThu}" ClipboardContentBinding="{x:Null}" Header="Mã phiếu thu" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding MaPhieuSDDV}" ClipboardContentBinding="{x:Null}" Header="Mã phiếu sử dụng dịch vụ" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding NgayLap, StringFormat={}{0: dd/ MM/ yyyy}}" ClipboardContentBinding="{x:Null}" Header="Ngày lập" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding MaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Nhân viên lập phiếu" IsReadOnly="True"/>
+                                <DataGridTextColumn Binding="{Binding TongTien}" ClipboardContentBinding="{x:Null}" Header="Tổng tiền" IsReadOnly="True"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </GroupBox>
+            </Expander>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

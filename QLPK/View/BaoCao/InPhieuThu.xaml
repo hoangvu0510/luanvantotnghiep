@@ -1,0 +1,19 @@
+﻿<Window x:Class="QLPK.View.BaoCao.InPhieuThu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:rv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms"
+        xmlns:local="clr-namespace:QLPK.Model"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="In Phiếu Thu"  WindowState="Maximized" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <WindowsFormsHost>
+        <rv:ReportViewer x:Name="rpInPhieuThu">
+        </rv:ReportViewer>
+    </WindowsFormsHost>
+</Window>

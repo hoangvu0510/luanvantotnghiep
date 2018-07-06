@@ -1,0 +1,111 @@
+﻿<Window x:Class="QLPK.View.QLPCCV"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:QLPK.Model"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="12"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Quản lý Phân công công việc"  WindowState="Maximized" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CMyCommands.ThemPCCV" CanExecute="CommandBinding_CanExecute_Them" Executed="CommandBinding_Executed_Them"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.SuaPCCV" CanExecute="CommandBinding_CanExecute_Sua" Executed="CommandBinding_Executed_Sua"></CommandBinding>
+        <CommandBinding Command="local:CMyCommands.TimPCCV" CanExecute="CommandBinding_CanExecute_Tim" Executed="CommandBinding_Executed_Tim"></CommandBinding>
+    </Window.CommandBindings>
+    <ScrollViewer>
+        <StackPanel Name="spPCCV">
+            <Expander Name="epdPCCV" Expanded="epdPCCV_Expanded" Collapsed="epdPCCV_Expanded" Header="Phân công công việc" Margin="0,0,-0.4,0">
+                <GroupBox Name="gbPCCV" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0" Grid.Row="0" Content="Mã nhân viên: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="0" Name="txtMaNhanVien" IsReadOnly="True"></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="1" Content="Họ tên: "></Label>
+                        <TextBox Grid.Column="1" Grid.Row="1" Name="txtHoTen" IsReadOnly="True" ></TextBox>
+
+                        <Label Grid.Column="0" Grid.Row="2" Content="Chuyên Khoa: "></Label>
+                        <ComboBox Grid.Column="1" Grid.Row="2" Name="cboChuyenKhoa" SelectionChanged="cboChuyenKhoa_SelectionChanged"></ComboBox>
+
+                        <Label Grid.Column="0" Grid.Row="3" Content="Phòng khám: "></Label>
+                        <ComboBox Grid.Column="1" Grid.Row="3" Name="cboPhongKham" ></ComboBox>
+                    </Grid>
+                </GroupBox>
+            </Expander>
+            <GroupBox Name="gbNut" Visibility="Hidden" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button Grid.Column="0" Grid.Row="0" Content="Phân công công việc" Name="btnThem" Command="local:CMyCommands.ThemPCCV" Width="200" Background="Green" ></Button>
+                    <Button Grid.Column="1" Grid.Row="0" Content="Sửa" Name="btnSua" Command="local:CMyCommands.SuaPCCV" Width="200" Background="Orange" ></Button>
+                </Grid>
+            </GroupBox>
+            <GroupBox Name="gbTim" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Column="0" Grid.Row="0" Content="Tìm nhân viên: " ></Label>
+                    <TextBox Grid.Column="1" Grid.Row="0" Name="txtTim"></TextBox>
+                    <Button Grid.Column="2" Grid.Row="0" Content="Tìm" Name="btnTim" Command="local:CMyCommands.TimPCCV" Width="150" Background="Brown"></Button>
+                </Grid>
+            </GroupBox>
+            <GroupBox Name="gbDG" Style="{DynamicResource MaterialDesignGroupBox}"
+                  Margin="10"
+                  materialDesign:ColorZoneAssist.Mode="PrimaryLight">
+                <DataGrid Name="dg" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="dg_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding MaNhanVien}" ClipboardContentBinding="{x:Null}" Header="Mã nhân viên" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding HoTen}" ClipboardContentBinding="{x:Null}" Header="Họ tên" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding ChuyenKhoa}" ClipboardContentBinding="{x:Null}" Header="Chuyên khoa" IsReadOnly="True"/>
+                        <DataGridTextColumn Binding="{Binding PhongKham}" ClipboardContentBinding="{x:Null}" Header="Phòng khám" IsReadOnly="True"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </GroupBox>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button Grid.Column="1" Grid.Row="0" Content="&lt;" Name="btnPrevious"  Width="50" Background="Gray" Click="btnPrevious_Click"></Button>
+                <Label Grid.Column="2" Grid.Row="0" Name="lblPageNumber" Width="100"></Label>
+                <Button Grid.Column="3" Grid.Row="0" Content=">" Name="btnNext" Width="50" Background="Gray" Click="btnNext_Click"></Button>
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
